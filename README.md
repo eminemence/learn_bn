@@ -6,4 +6,7 @@ Learn inference using Bayesian networks using a mix of online and offline resour
 2. https://www.youtube.com/watch?v=4JkddqxGrO0
 3. https://www.bnlearn.com/examples/predict/
 4. https://medium.com/@eminemence/list/bayesiannet-044afdf57c1e
+   
+# Daily Log
+# 08-Nov-2023
 
